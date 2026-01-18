@@ -1,0 +1,3 @@
+from .mujoco_mover_converter import MoverToMujocoConverter
+
+assert MoverToMujocoConverter
